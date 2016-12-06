@@ -49,3 +49,9 @@ let result = value % divisor
 let isPerfectMultiple = result == 0
 
 let isGreater = someOperation >= anotherOperation
+
+//
+//Operator Precendence
+
+var x = 100 + 100 - 5 * 2 / 3 % 7
+
