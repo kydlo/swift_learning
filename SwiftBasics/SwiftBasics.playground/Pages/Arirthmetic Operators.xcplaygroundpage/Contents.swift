@@ -55,3 +55,23 @@ let isGreater = someOperation >= anotherOperation
 
 var x = 100 + 100 - 5 * 2 / 3 % 7
 
+//unary operators
+
+var levelScore = 0
+//levelScore = levelScore + 1
+levelScore += 1
+levelScore -= 1
+
+let on = true
+let off = !on
+
+var initialScore = 8
+initialScore += 1
+
+let lose = 10
+let isWinner = initialScore != 10
+
+
+
+
+
